@@ -8,6 +8,7 @@ namespace ConsoleApplication
         {
             string a = "ddd";
 
+
             Console.WriteLine("Hello {0}", a);
 
             
